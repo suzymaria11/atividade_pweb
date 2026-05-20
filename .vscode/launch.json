@@ -1,0 +1,35 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Aluno1",
+            "request": "launch",
+            "mainClass": "Aluno1",
+            "projectName": "atividade poo_dce2c2d2"
+        },
+        {
+            "type": "java",
+            "name": "fatorial",
+            "request": "launch",
+            "mainClass": "fatorial",
+            "projectName": "atividade poo_dce2c2d2"
+        },
+        {
+            "type": "java",
+            "name": "Produto01",
+            "request": "launch",
+            "mainClass": "Produto01",
+            "projectName": "atividade poo_dce2c2d2"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
